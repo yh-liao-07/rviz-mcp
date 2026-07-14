@@ -1,0 +1,19 @@
+{
+  "name": "rviz-mcp",
+  "version": "0.1.0",
+  "description": "RViz2 displays, fixed frame, views (mock + live). One-command install from GitHub for Grok + MCP hosts.",
+  "author": {
+    "name": "MergeOS / ThanhTrucSolutions",
+    "url": "https://github.com/mergeos-bounties"
+  },
+  "homepage": "https://github.com/mergeos-bounties/rviz-mcp",
+  "repository": "https://github.com/mergeos-bounties/rviz-mcp",
+  "license": "MIT",
+  "keywords": [
+    "rviz",
+    "ros2",
+    "mcp",
+    "visualization",
+    "mergeos"
+  ]
+}
